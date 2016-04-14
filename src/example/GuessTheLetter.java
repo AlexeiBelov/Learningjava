@@ -10,6 +10,7 @@ public class GuessTheLetter {
         char letter = sc.next().charAt(0);
         boolean bool = true;
         while (bool) {
+//      cccc
             System.out.println("Введите букву");
             char letterUser = sc.next().charAt(0);
             System.out.println("Вы ввели букву " + letterUser);
